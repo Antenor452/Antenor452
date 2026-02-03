@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Antenor
 - 👀 I’m interested in Mobile and Web dev
-- 🌱 I’m currently learning Flutter and React
 - 💞️ I’m looking to collaborate on anything interesting
 - 📫 How to reach me  : nanaosei452@gmail.com 
 
